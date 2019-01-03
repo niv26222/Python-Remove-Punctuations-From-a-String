@@ -14,4 +14,4 @@ for char in my_str:
 print(no_punct)
 
 # === Output ===
-Hello he said and went
+# Hello he said and went
